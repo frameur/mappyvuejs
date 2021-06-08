@@ -121,6 +121,7 @@ export default {
     display: flex;
     justify-content: center;
     margin: auto;
+    overflow: hidden;
   }
  
 }
